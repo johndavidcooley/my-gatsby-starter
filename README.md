@@ -1,4 +1,4 @@
-John's site.
+John's Gatsby Starter.
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
